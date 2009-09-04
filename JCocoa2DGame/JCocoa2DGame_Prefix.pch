@@ -1,8 +1,0 @@
-//
-// Prefix header for all source files of the 'JCocoa2DGame' target in the 'JCocoa2DGame' project
-//
-
-#ifdef __OBJC__
-    #import <Foundation/Foundation.h>
-    #import <UIKit/UIKit.h>
-#endif
